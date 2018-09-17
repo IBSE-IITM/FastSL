@@ -32,7 +32,7 @@ __________________________________________________________________________
 ##### `Sample Results/`
 Reaction and Gene lethals for the models used
 
-__________________________________________________________________________
+___________________________________________________________________________
 ### Documentation (MATLAB)
 
 ```Matlab
@@ -80,3 +80,7 @@ fastSL(model,cutoff,order,eliList,atpm)
 
 >>example_fastSLgenes
 ```
+___________________________________________________________________________
+### Acknowledgements
+
+![IBSE](https://github.com/RBC-DSAI-IITM/rbc-dsai-iitm.github.io/blob/master/images/IBSE_logo.png) ![RBC-DSAI](https://github.com/RBC-DSAI-IITM/rbc-dsai-iitm.github.io/blob/master/images/logo.jpg)
