@@ -82,6 +82,8 @@ fastSL(model,cutoff,order,eliList,atpm)
 ```
 ___________________________________________________________________________
 ### Acknowledgements
+* High Performance Computing Environment, P G Senapathy Centre for Computing Resources, IIT Madras
+* Grant BT/PR4949/BRB/10/1048/2012 from the [Department of Biotechnology, Government of India](https://www.dbtindia.nic.in/).
 * [Initiative for Biological Systems Engineering](https://ibse.iitm.ac.in/)
 * [Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI)](https://rbcdsai.iitm.ac.in/)
 
